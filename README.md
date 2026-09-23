@@ -12,12 +12,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 CSE Student at **Jahangirnagar University**
-- 🌱 Currently learning **React, Next.js, TypeScript & Tailwind CSS**
-- 💻 Interested in **Frontend & Full-Stack Web Development**
-- 🧠 Continuously improving my **problem-solving and programming skills**
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
-- 📫 Reach me at **20240659122maliha@juniv.edu**
+* 🎓 CSE Student at **Jahangirnagar University**
+* 🌱 Currently learning **React, Next.js, TypeScript & Tailwind CSS**
+* 💻 Interested in **Frontend & Full-Stack Web Development**
+* 🧠 Continuously improving my **problem-solving and programming skills**
+* 💬 Ask me about **HTML, CSS, JavaScript & React**
+* 📫 Reach me at **[20240659122maliha@juniv.edu](mailto:20240659122maliha@juniv.edu)**
 
 ---
 
@@ -75,35 +75,40 @@
 
 ### 🚀 Featured Projects
 
-#### 💼 Portfolio Website
+#### ⚡ Dev Stack Builder
 
-A responsive personal portfolio website showcasing my skills, projects, and web development journey.
+A React-based web application that helps developers explore different technologies and build their own technology stack.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** React.js, JavaScript, Tailwind CSS, React-Toastify, JSON, Vite
 
-🔗 **[View Repository](YOUR_PORTFOLIO_REPOSITORY_LINK)**  
-🌐 **[Live Demo](YOUR_PORTFOLIO_LIVE_LINK)**
+**Key Features:**
+
+* 🔍 Explore technologies by category, difficulty, description and rating
+* ➕ Add technologies to a personal stack
+* 🗑️ Remove individual technologies or clear the entire stack
+* 🔔 Toast notifications for user actions
+
+🔗 **[View Repository](https://github.com/maliha-cse/dev-stack-builder)**
 
 ---
 
-#### ⚡ DevStack Builder
+#### 💼 Portfolio Website
 
-A web development project focused on creating a modern and interactive user experience while practicing frontend development concepts.
+A responsive personal portfolio website showcasing my skills, projects and web development journey.
 
-**Technologies:** React, JavaScript, Tailwind CSS
+**Technologies:** HTML, CSS, JavaScript
 
-🔗 **[View Repository](YOUR_DEVSTACK_REPOSITORY_LINK)**  
-🌐 **[Live Demo](YOUR_DEVSTACK_LIVE_LINK)**
+🔗 **[View Repository](https://github.com/maliha-cse/b14-web-dev-portfolio-)**
 
 ---
 
 ### 🌱 Currently Learning
 
-- ⚛️ React
-- ▲ Next.js
-- 📘 TypeScript
-- 🎨 Tailwind CSS
-- 🔧 Modern Frontend Development
+* ⚛️ React
+* ▲ Next.js
+* 📘 TypeScript
+* 🎨 Tailwind CSS
+* 🔧 Modern Frontend Development
 
 ---
 
