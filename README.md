@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mst Zeba Maliha Radiya</h1>
 
 <h3 align="center">
-  Aspiring Full-Stack Developer | Computer Science Student
+  CSE Student @ Jahangirnagar University | Aspiring Full-Stack Developer
 </h3>
 
 <p align="center">
-  Passionate about building modern and responsive web applications.
+  Passionate about building modern, responsive and user-friendly web applications.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **React, Next.js, TypeScript, and Tailwind CSS**
-- 💻 I’m interested in **Frontend & Full-Stack Web Development**
-- 📚 Continuously improving my problem-solving and programming skills
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**
+- 🎓 CSE Student at **Jahangirnagar University**
+- 🌱 Currently learning **React, Next.js, TypeScript & Tailwind CSS**
+- 💻 Interested in **Frontend & Full-Stack Web Development**
+- 🧠 Continuously improving my **problem-solving and programming skills**
+- 💬 Ask me about **HTML, CSS, JavaScript & React**
 - 📫 Reach me at **20240659122maliha@juniv.edu**
 
 ---
@@ -28,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
+<a href="https://cplusplus.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 
@@ -72,7 +73,31 @@
 
 ---
 
-### 🚀 Currently Learning
+### 🚀 Featured Projects
+
+#### 💼 Portfolio Website
+
+A responsive personal portfolio website showcasing my skills, projects, and web development journey.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 **[View Repository](YOUR_PORTFOLIO_REPOSITORY_LINK)**  
+🌐 **[Live Demo](YOUR_PORTFOLIO_LIVE_LINK)**
+
+---
+
+#### ⚡ DevStack Builder
+
+A web development project focused on creating a modern and interactive user experience while practicing frontend development concepts.
+
+**Technologies:** React, JavaScript, Tailwind CSS
+
+🔗 **[View Repository](YOUR_DEVSTACK_REPOSITORY_LINK)**  
+🌐 **[Live Demo](YOUR_DEVSTACK_LIVE_LINK)**
+
+---
+
+### 🌱 Currently Learning
 
 - ⚛️ React
 - ▲ Next.js
@@ -82,9 +107,9 @@
 
 ---
 
-### 📌 Featured Projects
+### 🎯 My Goal
 
-> 🚧 Projects section will be updated as I build and deploy more projects.
+To become a professional full-stack developer by continuously building projects, strengthening my problem-solving skills, and learning modern web technologies.
 
 ---
 
@@ -103,22 +128,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=maliha-cse&show_icons=true&theme=default&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=maliha-cse&show_icons=true&theme=default&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliha-cse&layout=compact&theme=default&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliha-cse&layout=compact&theme=default&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=maliha-cse&theme=default&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=maliha-cse&theme=default&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
